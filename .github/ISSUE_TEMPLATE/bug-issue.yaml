@@ -5,10 +5,10 @@ labels: ["bug", "needs-triage"]
 body: 
   - attributes: 
       value: |
-          # crDroid bug report
+          # risingOS bug report
           
           Important to note that your issue may have already been reported before. 
-          Please check for existing issues [here](https://github.com/crdroidandroid/issue_tracker/issues/labels/bug).  
+          Please check for existing issues [here](https://github.com/RisingTechOSS/issue_tracker/issues/labels/bug).  
           *Do note that unofficial versions will not get supported since we can not check device specific source.*
     type: markdown
   - attributes: 
@@ -29,17 +29,14 @@ body:
       required: true
   - attributes: 
       description: "*Only current still updated source code is listed*"
-      label: "crDroid version"
+      label: "risingOS version"
       options: 
-        - "crDroid 7"
-        - "crDroid 8"
-        - "crDroid 9"
-        - "crDroid 10"
+        - "risingOS 2.x"
     type: dropdown
     validations: 
       required: true
   - attributes: 
-      description: "Exact crDroid version **Ex: 8.6/2022-06-17**"
+      description: "Exact risingOS version **Ex: 2.0/2024-02-17**"
       label: Exact version / Build date
     type: textarea
     validations: 
@@ -53,7 +50,7 @@ body:
   - attributes: 
       description: "Steps to reproduce the issue"
       label: "Steps to reproduce"
-      placeholder: "Step 1. Go to crDroid settings. Step 2. ..."
+      placeholder: "Step 1. Go to Personalizations settings. Step 2. ..."
     type: textarea
     validations: 
       required: true
@@ -90,7 +87,7 @@ body:
       options: 
         - label: "I've checked device is officially supported (for device specific reports and not source related)."
           required: false
-        - label: "I'm running latest version available on crdroid.net for this device"
+        - label: "I'm running latest version available on risingOS channel for this device"
           required: true
         - label: "I have searched the existing issues and this is a new and no duplicate or related to another open issue."
           required: true
