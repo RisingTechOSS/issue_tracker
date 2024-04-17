@@ -4,3 +4,18 @@
 
 ## Submit new issue ##
 In order to submit new issue, [click me](https://github.com/RisingTechOSS/issue_tracker/issues/new/choose)
+
+## Tracked Issues for Latest Revision
+
+1. **Volume Panel Lagging**
+   - Description: Users are experiencing delays and sluggish behavior when adjusting volume.
+   - Priority: High
+
+2. **Lockscreen Clock Random Disappearance**
+   - Description: The lockscreen clock occasionally disappears unexpectedly.
+   - Priority: High
+
+3. **Broken Clock Layout for Google Prebuilt Clocks**
+   - Description: Layout issues observed with Google prebuilt lockscreen clocks.
+   - Priority: Low
+
