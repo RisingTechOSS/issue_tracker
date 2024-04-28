@@ -6,8 +6,3 @@
 In order to submit new issue, [click me](https://github.com/RisingTechOSS/issue_tracker/issues/new/choose)
 
 ## Tracked Issues for Latest Revision
-
-1. **Volume panel slider adjustment delay**
-   - Description: Users are experiencing delays and sluggish behavior when adjusting volume.
-   - Priority: High/Need Help
-   - Status: Acknowledged; Workaround applied (Disabled volume animation to resolve delays, however it may look janky to some users).
