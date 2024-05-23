@@ -6,3 +6,5 @@
 In order to submit new issue, [click me](https://github.com/RisingTechOSS/issue_tracker/issues/new/choose)
 
 ## Tracked Issues for Latest Revision
+
+1. High system_server cpu usage
