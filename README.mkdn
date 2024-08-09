@@ -7,4 +7,7 @@ In order to submit new issue, [click me](https://github.com/RisingTechOSS/issue_
 
 ## Tracked Issues for Latest Revision
 
-1. High system_server cpu usage
+1. **Google login failure on third party apps**
+   - Description: Users are experiencing login failures when using google login on apps like twitter/pinterest.
+   - Priority: High/Need Help
+   - Status: Acknowledged; Needs more info to find the root cause.
