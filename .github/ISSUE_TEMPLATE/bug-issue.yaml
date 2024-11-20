@@ -31,12 +31,13 @@ body:
       description: "*Only current still updated source code is listed*"
       label: "risingOS version"
       options: 
-        - "risingOS 2.x"
+        - "risingOS 6.x"
+        - "risingOS 5.x"
     type: dropdown
     validations: 
       required: true
   - attributes: 
-      description: "Exact risingOS version **Ex: 2.0/2024-02-17**"
+      description: "Exact risingOS version **Ex: 6.0/2024-02-17**"
       label: Exact version / Build date
     type: textarea
     validations: 
